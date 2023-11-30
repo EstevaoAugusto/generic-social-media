@@ -1,5 +1,7 @@
 import styled from "styled-components";
 
+/*Estilização da tela de login */
+
 export const Container = styled.View`
     background-color: #fff;
     flex: 1;

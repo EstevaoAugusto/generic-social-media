@@ -8,6 +8,8 @@ import User from "../../screens/User";
 
 const Stack = createStackNavigator()
 
+/*É aqui onde ocorre a navegação */
+
 export default function PageStack() {
     return (
         <NavigationContainer>
