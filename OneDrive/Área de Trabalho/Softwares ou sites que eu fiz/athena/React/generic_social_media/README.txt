@@ -1,12 +1,14 @@
+Para Comp Junior
 Aplicativo que visa imitar o Instagram, nomeado genericamente como Social Media, ou generic_social_media
 
-Utilizei o Expo para desenvolve-lo, e estou num ambiente do VS-Code
+Utilizei o Expo Go para testá-lo, isso é, meu celular serviu como forma de testar o funcionamento do App.
+Estou no ambiente do VS-Code
 
 Foram feitos: Tela de Login, Header, Cards Selecionaveis e Navegação em Pilhas
 
 Pacotes e Dependecias
 * yarn add styled-components
-  Utilizei para estilizar componentes e diminuir um pouco o uso do StyleSheet
+  Utilizei styled components para estilizar os componentes e diminuir um pouco o uso do StyleSheet
 
 * yarn add @react-navigation/native
 * npx expo install react-native-screens react-native-safe-area-context
